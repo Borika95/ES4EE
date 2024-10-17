@@ -11,11 +11,8 @@ This repository contains the implementation of the **Expert System Shell for Ene
 - **Energy Efficiency Optimization**: Specialized modules to identify inefficiencies and recommend improvements in energy consumption for manufacturing processes.
 - **Process Integration**: Enables the connection to other technical systems for unidirectional or bidirectional data transfer.
 
-## Installation
-
-### Prerequisites
-
-- **Python 3.x**: Make sure you have Python 3.x installed.
-- **Jupyter Notebook**: The shell is implemented in Jupyter Notebook. Install it using the following command:
+## Install Required Libraries
+Navigate to the project folder and install the required dependencies using the following command:
   ```bash
-  pip install notebook
+  pip install -r requirements.txt
+```
