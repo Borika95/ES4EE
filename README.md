@@ -10,7 +10,7 @@ This repository contains the implementation of the **Expert System Shell for Ene
 - **Knowledge Representation**: Supports declarative knowledge representation, using rule-based systems to model domain knowledge.
 - **Energy Efficiency Optimization**: Specialized modules to identify inefficiencies and recommend improvements in energy consumption for manufacturing processes.
 - **Process Integration**: Enables the connection to other technical systems for unidirectional or bidirectional data transfer.
-- 
+
 ## Installation
 
 ### Prerequisites
