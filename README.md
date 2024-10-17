@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of the **Expert System Shell for Energy Efficiency (ES4EE)**, a template for the development of expert systems for improving energy efficiency in manufacturing industries. ES4EE is implemented using Jupyter Notebook, providing a flexible and user-friendly environment for both expert system developers and end-users.
+This repository contains the implementation of the **Expert System Shell for Energy Efficiency (ES4EE)** - a template for the development of expert systems for improving energy efficiency in manufacturing industries. ES4EE is implemented using Jupyter Notebook, providing a flexible and user-friendly environment for both expert system developers and end-users.
 
 ## Features
 
