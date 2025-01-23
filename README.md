@@ -1,4 +1,4 @@
-# Expert System Shell for Energy Efficiency (ES4EE)
+# Expert System Shell for Energy Efficiency (ESS4EE)
 
 ## Overview
 
